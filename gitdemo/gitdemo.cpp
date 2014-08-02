@@ -5,6 +5,9 @@ int main()
 {
 	cout<<"this is for demo"<<endl;
 
+	
+	cout<<"change made at ubuntu"<<endl;
+
 	return 0;
 
 }
