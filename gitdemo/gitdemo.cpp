@@ -10,6 +10,7 @@ int main()
 	
 	cout<<"change made at ubuntu"<<endl;
 	cout<<"release version"<<endl;
+	cout<<"bug fix"<<endl;  //trying to leran merge
 
 	return 0;
 
